@@ -1,0 +1,22 @@
+current directory: /home/samuel/projectsByOrganizations/codeSaga/bloggy/vendor/bundle/ruby/3.2.0/gems/bootsnap-1.18.1/ext/bootsnap
+/home/samuel/.rbenv/versions/3.2.2/bin/ruby extconf.rb
+checking for fdatasync() in fcntl.h... yes
+checking for whether _GNU_SOURCE is accepted as CPPFLAGS... no
+checking for whether -O3 is accepted as CFLAGS... yes
+checking for whether -std=c99 is accepted as CFLAGS... yes
+creating Makefile
+
+current directory: /home/samuel/projectsByOrganizations/codeSaga/bloggy/vendor/bundle/ruby/3.2.0/gems/bootsnap-1.18.1/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20240130-174840-ucs5fl sitelibdir\=./.gem.20240130-174840-ucs5fl clean
+
+current directory: /home/samuel/projectsByOrganizations/codeSaga/bloggy/vendor/bundle/ruby/3.2.0/gems/bootsnap-1.18.1/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20240130-174840-ucs5fl sitelibdir\=./.gem.20240130-174840-ucs5fl
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.so
+
+current directory: /home/samuel/projectsByOrganizations/codeSaga/bloggy/vendor/bundle/ruby/3.2.0/gems/bootsnap-1.18.1/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20240130-174840-ucs5fl sitelibdir\=./.gem.20240130-174840-ucs5fl install
+/usr/bin/install -c -m 0755 bootsnap.so ./.gem.20240130-174840-ucs5fl/bootsnap
+
+current directory: /home/samuel/projectsByOrganizations/codeSaga/bloggy/vendor/bundle/ruby/3.2.0/gems/bootsnap-1.18.1/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20240130-174840-ucs5fl sitelibdir\=./.gem.20240130-174840-ucs5fl clean
