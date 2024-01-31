@@ -1,0 +1,1 @@
+# bloggy_rails_init
